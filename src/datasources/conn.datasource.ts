@@ -8,7 +8,7 @@ const config = {
   host: '@cluster0.fvpsien.mongodb.net',
   port: 27017,
   user: 'dev',
-  password: '',
+  password: '14utKlDoduthLltS ',
   database: 'reposicion',
   useNewUrlParser: true
 };
